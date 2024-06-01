@@ -1,0 +1,6 @@
+# python
+# numpy
+# panda
+# matplotlib
+# sklearn
+# streamlit
