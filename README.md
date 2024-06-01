@@ -7,4 +7,4 @@ We will be using the Linear Regression for training and prediting the house pric
 
 
 
-We had use the streamlit for the final deployment of the Project
+We will use the streamlit for the final deployment of the Project
